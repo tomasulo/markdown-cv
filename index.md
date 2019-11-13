@@ -25,7 +25,7 @@ Software Engineer based in Munich, Germany
 - \- Other stuff
 
 ### Technologies
-Java 8, Spring Boot, PostgreSQL, Maven, Git, Google AppEngine, IntelliJ, Jenkins, Docker, Typescript, AngularJS
+Java 8, Spring Boot, PostgreSQL, Maven, Google AppEngine, Google Datastore, Jenkins, Docker, Typescript, Angular
 
 
 ### IT Consultant
@@ -34,6 +34,11 @@ Java 8, Spring Boot, PostgreSQL, Maven, Git, Google AppEngine, IntelliJ, Jenkins
 
 ### Projects
 
+*couple of months 1&1:*
+
+*Technoogies:*
+Java, Spring Boot, Maven, Apache Kafka
+
 *Working for sixt 2 years:* `03/2016 - 03/2018`
 
 explanation blalblbalbkdlsfd
@@ -41,15 +46,21 @@ fadsf
 dsfa
 dsafdsfdsfadsaf
 
-*couple of months 1&1:*
+*Technologies:*
+Java, Gradle, Docker, Jenkins, AWS, DynamoDB, PostgreSQL, Golang, Protobuf, Apache Kafka, Consul, Redis
 
 *cd pipeline review audi:*
 
 *fiducia*
 
-### 05/2013 - 06/2015
+*Technologies:*
+Java, Gradle, Jenkins
 
-Working Student at [codecentric AG](www.codecentric.de)
+### Working Student
+`05/2013 - 06/2015`
+**[codecentric AG](www.codecentric.de)**
+
+During my master I worked for an internal project at codecentric in part-time. I was developing new features for a document storage solution with Vaadin.
 
 ### 08/2012 - 02/2013
 
@@ -58,6 +69,8 @@ Bachelor Thesis at [PENTASYS AG](www.pentasys.de)
 ### 09/2011 - 02/2012
 
 Internship at [BMW AG](www.bmw.de)
+
+###
 
 ## Articles
 
