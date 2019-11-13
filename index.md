@@ -3,17 +3,22 @@ layout: cv
 title: Thomas Kieffer's CV
 ---
 # Thomas Kieffer
+
 Software Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">thomas.kieffer@protonmail.com</a>
+<a href="thomas.kieffer@protonmail.com">thomas.kieffer@protonmail.com</a>
 | <a href="http://tomasulo.github.io">My personal blog</a>
 </div>
 
 
-## Currently
+## 10/2018 - now
 
-Standing on the shoulders of giants
+Senior Software Engineer at [wohnungshelden GmbH](www.wohnungshelden.de)
+
+## 10/2015 - 10/2018
+
+IT Consultant at [codecentric AG](www.codecentric.de)
 
 ### Specialized in
 
