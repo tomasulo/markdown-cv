@@ -4,93 +4,99 @@ title: Thomas Kieffer's CV
 ---
 # Thomas Kieffer
 
-Software Engineer.
+Software Engineer based in Munich, Germany
 
 <div id="webaddress">
-<a href="thomas.kieffer@protonmail.com">thomas.kieffer@protonmail.com</a>
-| <a href="http://tomasulo.github.io">My personal blog</a>
+  <a href="https://tomasulo.github.io"><i class="fas fa-home"></i> tomasulo.github.io</a> - 
+  <a href="https://github.com/tomasulo"><i class="fab fa-github"></i> tomasulo</a> - 
+  <a href="https://twitter.com/t_kieffer"><i class="fab fa-twitter"></i> @t_kieffer</a> -
+    <a href="https://stackoverflow.com/users/3636822/tomasulo"><i class="fab fa-stack-overflow"></i> tomasulo</a>
 </div>
-
-
-## 10/2018 - now
-
-Senior Software Engineer at [wohnungshelden GmbH](www.wohnungshelden.de)
-
-## 10/2015 - 10/2018
-
-IT Consultant at [codecentric AG](www.codecentric.de)
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Senior Software Engineer
+`10/2018 - present`
+**[wohnungshelden GmbH](https://wohnungshelden.de)**
 
 
+- \- Building new features for the wohnungshelden SaaS solution (Spring Boot backend + AngularJS frontend)
+- \- Maintaining and improving the continuous delivery pipeline (Jenkins)
+- \- Other stuff
+
+### Technologies
+Java 8, Spring Boot, PostgreSQL, Maven, Git, Google AppEngine, IntelliJ, Jenkins, Docker, Typescript, AngularJS
+
+
+### IT Consultant
+`09/2015 - 10/2018`
+**[codecentric AG](www.codecentric.de)**
+
+### Projects
+
+*Working for sixt 2 years:* `03/2016 - 03/2018`
+
+explanation blalblbalbkdlsfd
+fadsf
+dsfa
+dsafdsfdsfadsaf
+
+*couple of months 1&1:*
+
+*cd pipeline review audi:*
+
+*fiducia*
+
+### 05/2013 - 06/2015
+
+Working Student at [codecentric AG](www.codecentric.de)
+
+### 08/2012 - 02/2013
+
+Bachelor Thesis at [PENTASYS AG](www.pentasys.de)
+
+### 09/2011 - 02/2012
+
+Internship at [BMW AG](www.bmw.de)
+
+## Articles
+
+`03/2017`
+**Writing Integration Tests with Docker Compose and JUnit**
+
+[https://blog.codecentric.de/en/2017/03/writing-integration-tests-docker-compose-junit/](https://blog.codecentric.de/en/2017/03/writing-integration-tests-docker-compose-junit/)
+
+## Training
+
+**Gradle In-Depth Training**, *with René Groeschke*
+
+**Crafting Code**, *with Sandro Mancuso*
+
+**Scrum for Developers**
+
+**Softskills - Cooperation and Communication**
+
+## Education
+
+`03/2013 - 03/2015`
+**M.S., Software Engineering**, *Munich University of Applied Sciences*
+
+`10/2009 - 03/2013`
+**B.S., Computer Science**, *Regensburg University of Applied Sciences*
+
+## Theses
+
+### Masterthesis
+
+`06/2015`
+**A Comparison of Modern Technologies for Building Reactive Systems on the JVM**
+
+### Bachelorthesis
+
+**Continuous Delivery - Eine theoretische Abhandlung und die Umsetzung einer Beispieltoolchain für den Einsatz in der Praxis**
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2019 -->
 
 
