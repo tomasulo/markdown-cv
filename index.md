@@ -14,7 +14,7 @@ Software Engineer based in Munich, Germany
     <a href="https://www.xing.com/profile/Thomas_Kieffer2"><i class="fab fa-xing"></i> Thomas Kieffer</a>
 </div>
 
-## Occupation
+## Experience
 
 ### Senior Software Engineer
 `10/2018 - present`
