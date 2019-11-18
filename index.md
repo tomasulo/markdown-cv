@@ -10,7 +10,8 @@ Software Engineer based in Munich, Germany
   <a href="https://tomasulo.github.io"><i class="fas fa-home"></i> tomasulo.github.io</a> - 
   <a href="https://github.com/tomasulo"><i class="fab fa-github"></i> tomasulo</a> - 
   <a href="https://twitter.com/t_kieffer"><i class="fab fa-twitter"></i> @t_kieffer</a> -
-    <a href="https://stackoverflow.com/users/3636822/tomasulo"><i class="fab fa-stack-overflow"></i> tomasulo</a>
+    <a href="https://stackoverflow.com/users/3636822/tomasulo"><i class="fab fa-stack-overflow"></i> tomasulo</a> -
+    <a href="https://www.xing.com/profile/Thomas_Kieffer2"><i class="fab fa-xing"></i> Thomas Kieffer</a>
 </div>
 
 ## Occupation
@@ -19,12 +20,9 @@ Software Engineer based in Munich, Germany
 `10/2018 - present`
 **[wohnungshelden GmbH](https://wohnungshelden.de)**
 
+I am part of a small team that develops and maintains the SaaS solution of wohnungshelden. The product consists of several microservices (Spring Boot) that run on Google AppEngine and an Angular frontend. I also spend part of my time improving the continuous delivery pipeline and the build processes.
 
-- \- Building new features for the wohnungshelden SaaS solution (Spring Boot backend + AngularJS frontend)
-- \- Maintaining and improving the continuous delivery pipeline (Jenkins)
-- \- Other stuff
-
-### Technologies
+*Technologies:*
 Java 8, Spring Boot, PostgreSQL, Maven, Google AppEngine, Google Datastore, Jenkins, Docker, Typescript, Angular
 
 
@@ -32,45 +30,30 @@ Java 8, Spring Boot, PostgreSQL, Maven, Google AppEngine, Google Datastore, Jenk
 `09/2015 - 10/2018`
 **[codecentric AG](www.codecentric.de)**
 
-### Projects
+Projects:
 
-*couple of months 1&1:*
+`03/2018 - 09/2018`
+*Network communication company:*
 
-*Technoogies:*
+In this project I was part of a team that was tasked to build a system to detect fraudulent user behavior by analyzing events from Apache Kafka.
+
+*Technologies:*
 Java, Spring Boot, Maven, Apache Kafka
 
-*Working for sixt 2 years:* `03/2016 - 03/2018`
+*Car rental company:* `03/2016 - 03/2018`
 
-explanation blalblbalbkdlsfd
-fadsf
-dsfa
-dsafdsfdsfadsaf
+For two years I was part of the core backend team of a project to build a completely new mobility platform. I was developing new microservices in Java and Go while also maintaining the internal Gradle build plugin. The development teams (also remote) were following a traditional Scrum process and agile principles.
 
 *Technologies:*
 Java, Gradle, Docker, Jenkins, AWS, DynamoDB, PostgreSQL, Golang, Protobuf, Apache Kafka, Consul, Redis
 
-*cd pipeline review audi:*
 
-*fiducia*
+*Financial services company:* `10/2015 - 03/2016`
+
+In this project I was part of the build- and release team where we maintained a Gradle plugin and some other tools to simplify and automate the release processes of the development teams.
 
 *Technologies:*
-Java, Gradle, Jenkins
-
-### Working Student
-`05/2013 - 06/2015`
-**[codecentric AG](www.codecentric.de)**
-
-During my master I worked for an internal project at codecentric in part-time. I was developing new features for a document storage solution with Vaadin.
-
-### 08/2012 - 02/2013
-
-Bachelor Thesis at [PENTASYS AG](www.pentasys.de)
-
-### 09/2011 - 02/2012
-
-Internship at [BMW AG](www.bmw.de)
-
-###
+Java, Gradle, PHP, Jenkins
 
 ## Articles
 
@@ -106,10 +89,6 @@ Internship at [BMW AG](www.bmw.de)
 
 ### Bachelorthesis
 
+`03/2013`
 **Continuous Delivery - Eine theoretische Abhandlung und die Umsetzung einer Beispieltoolchain für den Einsatz in der Praxis**
-
-<!-- ### Footer
-
-Last updated: November 2019 -->
-
 
