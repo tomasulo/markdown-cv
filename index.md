@@ -28,7 +28,7 @@ Java 8, Spring Boot, PostgreSQL, Maven, Google AppEngine, Google Datastore, Jenk
 
 ### IT Consultant
 `09/2015 - 10/2018`
-**[codecentric AG](www.codecentric.de)**
+**[codecentric AG](https://codecentric.de)**
 
 Projects:
 
