@@ -33,22 +33,28 @@ Java 8, Spring Boot, PostgreSQL, Maven, Google AppEngine, Google Datastore, Jenk
 Projects:
 
 `03/2018 - 09/2018`
-*Network communication company:*
+*1&1 Telecommunication SE:*
 
 In this project I was part of a team that was tasked to build a system to detect fraudulent user behavior by analyzing events from Apache Kafka.
 
 *Technologies:*
 Java, Spring Boot, Maven, Apache Kafka
 
-*Car rental company:* `03/2016 - 03/2018`
+*Sixt SE:* `03/2016 - 03/2018`
 
 For two years I was part of the core backend team of a project to build a completely new mobility platform. I was developing new microservices in Java and Go while also maintaining the internal Gradle build plugin. The development teams (also remote) were following a traditional Scrum process and agile principles.
 
 *Technologies:*
 Java, Gradle, Docker, Jenkins, AWS, DynamoDB, PostgreSQL, Golang, Protobuf, Apache Kafka, Consul, Redis
 
+*Audi AG:* `03/2016`
 
-*Financial services company:* `10/2015 - 03/2016`
+Review of a continuous delivery pipeline with advice on how to improve and further develop it.
+
+*Technologies:*
+Jenkins
+
+*Fiducia & GAD IT AG:* `10/2015 - 03/2016`
 
 In this project I was part of the build- and release team where we maintained a Gradle plugin and some other tools to simplify and automate the release processes of the development teams.
 
