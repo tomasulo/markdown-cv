@@ -23,7 +23,7 @@ Software Engineer based in Munich, Germany
 I am part of a small team that develops and maintains the SaaS solution of wohnungshelden. The product consists of several microservices (Spring Boot) that run on Google AppEngine and an Angular frontend. I also spend part of my time improving the continuous delivery pipeline and the build processes.
 
 *Technologies:*
-Java 8, Spring Boot, PostgreSQL, Maven, Google AppEngine, Google Datastore, Jenkins, Kubernetes, Docker, Typescript, Angular
+Java, Spring Boot, PostgreSQL, Maven, Google AppEngine, Google Datastore, Jenkins, Kubernetes, Docker, Typescript, Angular
 
 
 ### IT Consultant
@@ -39,6 +39,7 @@ In this project I was part of a team that was tasked to build a system to detect
 
 *Technologies:*
 Java, Spring Boot, Maven, Apache Kafka
+
 
 *Sixt SE:* `03/2016 - 03/2018`
 
