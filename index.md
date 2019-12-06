@@ -26,7 +26,7 @@ Java, Spring Boot, PostgreSQL, Maven, Google AppEngine, Google Datastore, Jenkin
 
 
 ### IT Consultant
-**codecentric AG (09/2015 - 10/2018)**
+**codecentric AG (10/2015 - 10/2018)**
 
 Projects:
 
