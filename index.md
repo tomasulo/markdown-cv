@@ -4,7 +4,7 @@ title: Thomas Kieffer's CV
 ---
 # Thomas Kieffer
 
-Software Engineer based in Munich, Germany
+Software Engineer
 
 <div id="webaddress">
   <a href="https://tomasulo.github.io"><i class="fas fa-home"></i> tomasulo.github.io</a> - 
@@ -17,57 +17,63 @@ Software Engineer based in Munich, Germany
 ## Experience
 
 ### Senior Software Engineer
-`10/2018 - present`
-**[wohnungshelden GmbH](https://wohnungshelden.de)**
+**wohnungshelden GmbH (10/2018 - Present)**
 
-I am part of a small team that develops and maintains the SaaS solution of wohnungshelden. The product consists of several microservices (Spring Boot) that run on Google AppEngine and an Angular frontend. I also spend part of my time improving the continuous delivery pipeline and the build processes.
+Full-stack development of a SaaS product in an agile environment and improving the continuous delivery pipeline and build processes. Mentoring of the working students.
 
 *Technologies:*
 Java, Spring Boot, PostgreSQL, Maven, Google AppEngine, Google Datastore, Jenkins, Kubernetes, Docker, Typescript, Angular
 
 
 ### IT Consultant
-`09/2015 - 10/2018`
-**[codecentric AG](https://codecentric.de)**
+**codecentric AG (09/2015 - 10/2018)**
 
 Projects:
 
-`03/2018 - 09/2018`
-*1&1 Telecommunication SE:*
+*<u>1&1 Telecommunication SE (03/2018 - 09/2018)</u>*
 
-In this project I was part of a team that was tasked to build a system to detect fraudulent user behavior by analyzing events from Apache Kafka.
+Backend development and planning of a system to detect fraudulent user behavior based on events from Apache Kafka.
 
 *Technologies:*
 Java, Spring Boot, Maven, Apache Kafka
 
+*<u>Sixt SE (03/2016 - 03/2018)</u>*
 
-*Sixt SE:* `03/2016 - 03/2018`
+Backend development of microservices in Java and Golang as part of the core backend team of a new mobility platform, maintaining the Gradle build plugin for all Java-teams, maintaining of the lightweight Java framework ja-micro. The project consisted of several teams (also remote) and followed a traditional Scrum process.
 
-For two years I was part of the core backend team of a project to build a completely new mobility platform. I was developing new microservices in Java and Go while also maintaining the internal Gradle build plugin. The development teams (also remote) were following a traditional Scrum process and agile principles.
 
 *Technologies:*
 Java, Gradle, Docker, Jenkins, AWS, Kubernetes, DynamoDB, PostgreSQL, Golang, Protobuf, Apache Kafka, Consul, Redis
 
-*Audi AG:* `03/2016`
+*<u>Audi AG (03/2016)</u>*
 
 Review of a continuous delivery pipeline with advice on how to improve and further develop it.
 
 *Technologies:*
 Jenkins
 
-*Fiducia & GAD IT AG:* `10/2015 - 03/2016`
+*<u>Fiducia & GAD IT AG (10/2015 - 03/2016)</u>*
 
-In this project I was part of the build- and release team where we maintained a Gradle plugin and some other tools to simplify and automate the release processes of the development teams.
+Development of a Gradle build plugin which was used by all Java development teams to facilitate and automate the build and release processes.
 
 *Technologies:*
 Java, Gradle, PHP, Jenkins
 
-## Articles
+### Working Student
+**codecentric AG (05/2013 - 06/2015)**
 
-`03/2017`
-**Writing Integration Tests with Docker Compose and JUnit**
+Backend development for a codecentric spin-off in part-time.
 
-[https://blog.codecentric.de/en/2017/03/writing-integration-tests-docker-compose-junit/](https://blog.codecentric.de/en/2017/03/writing-integration-tests-docker-compose-junit/)
+*Technologies:*
+Java, Vaadin, Selenium
+
+## Education
+
+`03/2013 - 03/2015`
+**M.S., Software Engineering**, *Munich University of Applied Sciences*
+
+`10/2009 - 03/2013`
+**B.S., Computer Science**, *Regensburg University of Applied Sciences*
 
 ## Training
 
@@ -79,13 +85,12 @@ Java, Gradle, PHP, Jenkins
 
 **Softskills - Cooperation and Communication**
 
-## Education
+## Articles
 
-`03/2013 - 03/2015`
-**M.S., Software Engineering**, *Munich University of Applied Sciences*
+`03/2017`
+**Writing Integration Tests with Docker Compose and JUnit**
 
-`10/2009 - 03/2013`
-**B.S., Computer Science**, *Regensburg University of Applied Sciences*
+[https://blog.codecentric.de/en/2017/03/writing-integration-tests-docker-compose-junit/](https://blog.codecentric.de/en/2017/03/writing-integration-tests-docker-compose-junit/)
 
 ## Theses
 
