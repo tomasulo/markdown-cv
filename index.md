@@ -16,8 +16,11 @@ Software Engineer
 
 ## Experience
 
+### Software Developer
+**Allianz Technology SE (02/2020 - now)**
+
 ### Senior Software Engineer
-**wohnungshelden GmbH (10/2018 - Present)**
+**wohnungshelden GmbH (10/2018 - 02/2020)**
 
 Full-stack development of a SaaS product in an agile environment and improving the continuous delivery pipeline and build processes. Mentoring of the working students.
 
