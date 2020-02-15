@@ -17,7 +17,7 @@ Software Engineer
 ## Experience
 
 ### Software Developer
-**Allianz Technology SE (02/2020 - now)**
+**Allianz Technology SE (02/2020 - Present)**
 
 ### Senior Software Engineer
 **wohnungshelden GmbH (10/2018 - 02/2020)**
